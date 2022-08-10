@@ -1,0 +1,14 @@
+{
+    "name": "akan/mvc-framework",
+    "authors": [
+        {
+            "name": "Akanimoh Osutuk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
